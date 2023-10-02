@@ -1,0 +1,4 @@
+A web crawler sometimes called a “spider,” is a 
+standalone bot that systematically scans the Internet 
+for indexing and searching for content, following 
+internal links on web pages.

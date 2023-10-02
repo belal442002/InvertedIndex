@@ -1,0 +1,7 @@
+Data mining Data mining is the process of analyzing 
+dense volumes of data to find patterns, discover trends, 
+and gain insight into how that data can be used. Data 
+miners can then use those findings to make decisions or 
+predict an outcome. Data mining is an interconnected 
+discipline, blending the fields of statistics, machine 
+learning, and artificial intelligence.

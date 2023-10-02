@@ -1,0 +1,3 @@
+Recall: What fraction of the relevant 
+documents in the collection were returned by 
+the system?

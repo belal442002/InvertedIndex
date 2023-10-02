@@ -1,0 +1,2 @@
+Collection: a set of documents
+Assume it is a static collection for now.

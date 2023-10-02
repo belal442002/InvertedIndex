@@ -1,0 +1,2 @@
+Precision: What fraction of the returned 
+results are relevant to the information need?

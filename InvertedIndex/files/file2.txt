@@ -1,0 +1,6 @@
+Information extraction is the automated 
+retrieval of specific information related to a selected 
+topic from a body or bodies of text. Information 
+extraction tools make it possible to pull information 
+from text documents, databases, websites or multiple 
+sources.

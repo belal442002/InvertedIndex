@@ -1,0 +1,4 @@
+Data extraction is a process that involves retrieval of 
+data from various sources. Frequently, companies 
+extract data in order to process it further, migrate the 
+data to a data repository or to further analyze it.

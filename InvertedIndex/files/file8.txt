@@ -1,0 +1,5 @@
+An information need is the topic about which 
+the user desires to know more, and is 
+differentiated from a query, which is what the 
+user conveys to the computer in an attempt to 
+communicate the information need.
